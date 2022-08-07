@@ -38,16 +38,6 @@
 //	}
 //	return 0;
 //} 
-//
-//
-//
-//
-
-
-
-
-
-
 
 // Sequential Search Algorithm
 
@@ -76,14 +66,5 @@ int main(){
 		cout<<"The number is present in the array->"<<result<<endl;
 		
 	}
-	return 0;
-	
+	return 0;	
 }
-
-
-
- 
- 
-
-
-

@@ -47,21 +47,3 @@ Node *rightRotate(Node *y){
 	Node *x= y->left;
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

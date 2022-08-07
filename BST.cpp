@@ -310,14 +310,4 @@ then -> return -1
 then ->return (leftheight+1)
 else
 return return (rightheight+1)
-
-
-
-
-
-
-
 */
-
-
-  
